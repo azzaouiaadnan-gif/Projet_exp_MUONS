@@ -1,6 +1,4 @@
 # Projet_exp_MUONS
-Projet de M1 pfa dmn GEANT4 + analyse python
-
 Projet universitaire (Master 1 PFA - Modélisation Nucléaire) visant à modéliser un detecteur de Muons a triple scintillateur plastique et à analyser les dépôts d'énergie.
 
 Ce dépôt présente une chaîne de traitement complète, séparée en deux environnements distincts : 
