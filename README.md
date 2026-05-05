@@ -19,7 +19,7 @@ Consultez le `README` de ce dossier pour les instructions de compilation (CMake)
 
 ================= ANALYSE ======================
 
-'/Analyse` : Scripts et outils de traitement de données brutes.
+`/Analyse` : Scripts et outils de traitement de données brutes.
 
 Consultez le `README` de ce dossier pour l'architecture du code, les dépendances et le lancement des analyses.
 
