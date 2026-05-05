@@ -15,14 +15,16 @@ Le projet est structuré en deux modules. Chaque module a son propre read_me :
 
 ================= GEANT4 ======================
 
-----`/Geant4_simulation_Detecteur_muon_V.3.2` : Code source de la simulation Monte-Carlo.
+`/Geant4_simulation_Detecteur_muon_V.3.2` : Code source de la simulation Monte-Carlo.
 
 Consultez le `README` de ce dossier pour les instructions de compilation (CMake), la description de la géométrie et l'utilisation des macros.
 
 ================= ANALYSE ======================
-----'/Analyse` : Scripts et outils de traitement de données brutes.
+
+'/Analyse` : Scripts et outils de traitement de données brutes.
 
 Consultez le `README` de ce dossier pour l'architecture du code, les dépendances et le lancement des analyses.
+
 ===============================================
 
 ## Aperçu 
